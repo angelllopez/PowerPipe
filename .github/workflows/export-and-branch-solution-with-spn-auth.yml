@@ -25,7 +25,7 @@ on:
        default: solutions/
 env:
 #edit your values here
-  ENVIRONMENT_URL: 'https://make.powerapps.com/environments/bfcf50a6-92e1-eeb6-aea6-eb0c99293f18'
+  ENVIRONMENT_URL: 'https://make.powerapps.com/environments/bfcf50a6-92e1-eeb6-aea6-eb0c99293f18/home'
   CLIENT_ID: '2f5b0495-0108-4a08-aa75-86d9cd30df35'
   TENANT_ID: '5f8f035a-4a34-4339-a8ba-4567446e6307'
 permissions:
